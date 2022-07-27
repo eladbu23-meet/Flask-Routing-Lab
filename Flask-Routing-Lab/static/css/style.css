@@ -1,0 +1,18 @@
+img{width: 300px;  
+height: auto;  
+object-position: center top;
+position: relative;
+  left: 500px;
+top: 150px;}
+
+
+.logo{width: 300px;  
+height: auto;  
+object-position: center top;
+position: relative;
+  left: 200px;
+top: 20px;
+}
+button{
+  padding: 15px 32px
+}
